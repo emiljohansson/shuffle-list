@@ -1,4 +1,4 @@
-# shuffle-list  [![Build Status](https://travis-ci.org/emiljohansson/shuffle-list.svg?branch=master)](https://travis-ci.org/emiljohansson/shuffle-list)
+# shuffle-list [![Build Status](https://travis-ci.org/emiljohansson/shuffle-list.svg?branch=master)](https://travis-ci.org/emiljohansson/shuffle-list) [![Coverage Status](https://img.shields.io/coveralls/emiljohansson/shuffle-list/master.svg)](https://coveralls.io/r/emiljohansson/shuffle-list?branch=master)
 
 > Node module that shuffles the content of an array.
 
