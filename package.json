@@ -1,0 +1,19 @@
+{
+  "name": "shuffle-list",
+  "version": "1.0.0",
+  "description": "Node module that shuffles the content of an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "shuffle",
+    "list",
+    "array"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
