@@ -4,7 +4,9 @@
   "description": "Node module that shuffles the content of an array.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "coverage": "istanbul cover test.js -x test.js",
+    "coveralls": "npm run-script coverage && node node_modules/.bin/coveralls < coverage/lcov.info"
   },
   "keywords": [
     "shuffle",
@@ -14,6 +16,7 @@
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "coveralls": "^2.11.2",
     "tape": "^4.0.0"
   }
 }
