@@ -13,7 +13,7 @@
     "list",
     "array"
   ],
-  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "author": "Emil Johansson",
   "license": "MIT",
   "devDependencies": {
     "coveralls": "^2.11.2",
