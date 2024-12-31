@@ -21,4 +21,4 @@ The list to shuffle.
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © Emil Johansson
